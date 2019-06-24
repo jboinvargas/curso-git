@@ -25,6 +25,7 @@ namespace Aula70 {
 
             Console.WriteLine("Preço médio = " + media.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("teste de GIT");
+            Console.WriteLine("mais uma mensagem");
 
         }
     }
